@@ -343,5 +343,25 @@
         "hash": "0x0cd580ec25ba6f58b9638e53fe541ef1c4da473779d5d86ce891ea022203be4a",
         "black_address": "0xbd02338683c7517344d73fa9bf404c7fe17d33dd",
         "black_time": 1730915471
+    },
+    {
+        "hash": "0x8bef4fc5502ff2ed5fad46525a1adb443da92634c205b1bc082edd4ee5116d2f",
+        "black_address": "0xb76978af1d055cb91be91df525f2b0a30ca1d11a",
+        "black_time": 1732045403
+    },
+    {
+        "hash": "0x188a34452c458fc41e183bc1c10ffffdfff0df9677ac9f08f27e40cea420b4c4",
+        "black_address": "0x67ab29354a70732cdc97f372be81d657ce8822cd",
+        "black_time": 1732117907
+    },
+    {
+        "hash": "0xface0cbd2e45e2f8185c12a38a4e538584a446c234ed882fe1a056cf19f91415",
+        "black_address": "0x661be0562b31e9e8ddc2a7c93803005a1c71d749",
+        "black_time": 1732117907
+    },
+    {
+        "hash": "0x4ff4c297baea9a8b54cc2bb56aacd06e2950d9b57238d2bef46a8bea2db6c68d",
+        "black_address": "0xa3ff79276c4bd9d73d44ae26944b8312794e9008",
+        "black_time": 1732403075
     }
 ]
