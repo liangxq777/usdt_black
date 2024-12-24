@@ -8698,5 +8698,55 @@
         "recast_address": "0x148f888f09504b672eb459e04ddd1c6b0a116b0e",
         "recast_number": 254595.137237,
         "recast_time": "1734118379"
+    },
+    {
+        "destroy_hash": "0xa45b6eff7f988da0df91c84dd7c70e0ee4d8fbf007e602841d6882fa41108d9b",
+        "destroy_address": "0x00e679ba63b509182c349f5614f0a07cdd0ce0c5",
+        "destroy_number": 6622.76,
+        "destroy_time": 1734575399,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "0xef67071a4e1ec608f5aa8a75bafcfe2ee2ee5d125a8b36c81600a573c4567ff1",
+        "destroy_address": "0x6e204350fd0ad93706d4ab09fd4b47502652b607",
+        "destroy_number": 7000.333,
+        "destroy_time": 1734575411,
+        "recast_hash": "0xb5a859aa537b20a8cf443ff3580e2997ebf5caa0f560703ab9851f8b2590687e",
+        "recast_address": "0x9e72a7d63a4117dbc08509ee648a892d3719e3c8",
+        "recast_number": 7000.333,
+        "recast_time": "1734624431"
+    },
+    {
+        "destroy_hash": "0x8825552d429d88b821813a1fc3b6a618b3b6249d9d15e4e5ce8b39db13558d48",
+        "destroy_address": "0xc20dcb6c4fec2516e21cf52648177721e2744988",
+        "destroy_number": 500000.0,
+        "destroy_time": 1734575435,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "0x7c945098e421e9002d94e5cb651b3aba720d4c30afb8c6707bc5d4bc279c75fb",
+        "destroy_address": "0xc0c9baf6bb9b932eef4a60267aa8c530af5cb62c",
+        "destroy_number": 500002.18,
+        "destroy_time": 1734575447,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "0x8f9e8a76a4b5c26d63881d22d964a4f4ee5b6313c30d15c69058c3077a0a4185",
+        "destroy_address": "0xf2c678b283b58ac43b9975d13ab3f7ce87422ce0",
+        "destroy_number": 500000.0,
+        "destroy_time": 1734575447,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
     }
 ]
