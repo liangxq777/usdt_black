@@ -9148,5 +9148,25 @@
         "recast_address": "",
         "recast_number": "",
         "recast_time": ""
+    },
+    {
+        "destroy_hash": "0x320a51804297fdc0492aeef96fea8944f2d53f48a259dde989e1976c94c71fb6",
+        "destroy_address": "0xd91400601e87778bf5e0dc15832c31ead8938266",
+        "destroy_number": 368394.0,
+        "destroy_time": 1744129223,
+        "recast_hash": "0x722fb2780ac5b11be4cadf29c3db1576b600a4b1475e85a6d95cf773f90e04de",
+        "recast_address": "0xcbc2eee333a4e45f2c656a203b25c3b32aa82522",
+        "recast_number": 368394.0,
+        "recast_time": "1744122167"
+    },
+    {
+        "destroy_hash": "0x8ad614aef84543391e31bbb3c6e63b26b5ead433340c4fd6fdc60809e2dd1352",
+        "destroy_address": "0x95ac3e931986a3207c494c54683ba83b614d456d",
+        "destroy_number": 3249104.018068,
+        "destroy_time": 1744129223,
+        "recast_hash": "0xeb60d9b70004c2c1602007c9051c5e3f5f632f15f9952175cdc42f264e8095dc",
+        "recast_address": "0x681b12da2d2751a3a0179cbaf2feb6f4c5080766",
+        "recast_number": 3249104.018068,
+        "recast_time": "1744122119"
     }
 ]

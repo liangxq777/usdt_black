@@ -6417,5 +6417,19 @@
         "black_number": 109858.506954,
         "black_time": 1743471167,
         "black_block": 22170796
+    },
+    {
+        "hash": "0x320a51804297fdc0492aeef96fea8944f2d53f48a259dde989e1976c94c71fb6",
+        "black_address": "0xd91400601e87778bf5e0dc15832c31ead8938266",
+        "black_number": 368394.0,
+        "black_time": 1744129223,
+        "black_block": 22225340
+    },
+    {
+        "hash": "0x8ad614aef84543391e31bbb3c6e63b26b5ead433340c4fd6fdc60809e2dd1352",
+        "black_address": "0x95ac3e931986a3207c494c54683ba83b614d456d",
+        "black_number": 3249104.018068,
+        "black_time": 1744129223,
+        "black_block": 22225340
     }
 ]
