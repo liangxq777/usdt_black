@@ -4138,5 +4138,55 @@
         "recast_address": "",
         "recast_number": "",
         "recast_time": ""
+    },
+    {
+        "destroy_hash": "86b77ef9366ee8e73ede94d3cf6442df88afe5a138a617f1014b7f18493b381b",
+        "destroy_address": "TCe6XCgqzTG1cjgAYhET7gLt9qWe3XViSn",
+        "destroy_number": 1094165.920131,
+        "destroy_time": 1744731177.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "f3c53e770e7d8bd6f061ca30254d7b77d75a7f6bd1e8c3f27e114e0507f49a56",
+        "destroy_address": "TH99LWiqaPLf9CuesvAsC7JLsDVwuk4oSn",
+        "destroy_number": 105898.728157,
+        "destroy_time": 1744731174.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "8f8d4a4f6427a5f5a9895f856ed232a8c481aa682f2a261a227ff6e394d4ff62",
+        "destroy_address": "TTyRaPB6TQT9MEpwwRux4naX31Rov8e648",
+        "destroy_number": 584741.0,
+        "destroy_time": 1744731171.0,
+        "recast_hash": "27106862b05c84de57ea3289c24edcb0f37c78eb3d767bf3e6085552321bb2fe",
+        "recast_address": "TVMrLZUcZhdSifFpbiZEWqgRfXoWzPPCCP",
+        "recast_number": 584741.0,
+        "recast_time": 1744731399.0
+    },
+    {
+        "destroy_hash": "a27504e1549dd8392b09fd5ca28d174d48e14f618a08e86e1465185d7a2e8838",
+        "destroy_address": "TTscFqjCSFTpKufe8jjH653JmgYCHvQjdF",
+        "destroy_number": 1000100.145687,
+        "destroy_time": 1744731171.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "d1cd480f7130f8042f016b6a5ce22ecb90a1c41798ff7383ab747a2b433ce4b2",
+        "destroy_address": "TNihvNZfFYdSjLWyEHiPXQ2u28oXHN1PNu",
+        "destroy_number": 500001.2,
+        "destroy_time": 1744731168.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
     }
 ]
