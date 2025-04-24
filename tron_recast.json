@@ -4188,5 +4188,35 @@
         "recast_address": "",
         "recast_number": "",
         "recast_time": ""
+    },
+    {
+        "destroy_hash": "c97927fafee6b145059ca1047018a6033babeafbc16e8cb3cdf04244d3fdf601",
+        "destroy_address": "TW3cS9REP3ZQSu9k59xQTEU7nGS5x8ZE1u",
+        "destroy_number": 174889.895423,
+        "destroy_time": 1745427834.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "646840d932bcc8a586b78551b388be74f804ccc9692012b4f9109ede064dba86",
+        "destroy_address": "T9yD14Nj9j7xAB4dbGeiX9h8y2Jb7pdXyz",
+        "destroy_number": 127421.0,
+        "destroy_time": 1745427831.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "e6a2041182374742915c765e68288303ab4757b3559c5890370501c935dd8a13",
+        "destroy_address": "THJVeh7Jev6fvKSJpgBTM2k855TQCMCy8K",
+        "destroy_number": 40000.0,
+        "destroy_time": 1745427828.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
     }
 ]
