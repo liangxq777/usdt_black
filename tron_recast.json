@@ -4318,5 +4318,45 @@
         "recast_address": "",
         "recast_number": "",
         "recast_time": ""
+    },
+    {
+        "destroy_hash": "3f2445503f3f84e4d71d78585f5b2c5ac2b2303373a91e610382b2420d449cb7",
+        "destroy_address": "TPT4pz7g697maRahjUBvZHeSz2xvBaFCe6",
+        "destroy_number": 328689.242732,
+        "destroy_time": 1746199836.0,
+        "recast_hash": "b80874ba93393c212529412adebce654ae6dfc31623eebd4f01a3951c28be907",
+        "recast_address": "TVMrLZUcZhdSifFpbiZEWqgRfXoWzPPCCP",
+        "recast_number": 328689.242732,
+        "recast_time": 1746200364.0
+    },
+    {
+        "destroy_hash": "a56380e33e2bc97ef3990fb053ee88808314512786a763187a17a048a8368a78",
+        "destroy_address": "TKeAdy5kTjeKrdnscfSRZ1W8bkoPQkwNLZ",
+        "destroy_number": 1294314.182243,
+        "destroy_time": 1746199833.0,
+        "recast_hash": "7ad8f2f95b17d2890868d635e7d6533e1bbe3b9f6d5bf285b66d98c7f8aed38e",
+        "recast_address": "TYKyyX7JQzjNJbJc9WVWFPagC3KRVCwtQN",
+        "recast_number": 1294314.182243,
+        "recast_time": 1746200352.0
+    },
+    {
+        "destroy_hash": "ba203ff0841ee551bbd8606448378d3b3a3cff02f3041281ed09d64e4a72665f",
+        "destroy_address": "TKzJTE3ecTw9X25jTn1FNYd7gVmvDwJMGY",
+        "destroy_number": 284188.281142,
+        "destroy_time": 1746199833.0,
+        "recast_hash": "aa9335aa6c7f3c80d134efaf40f9689304dd51ea0e0f304e8b3d45ff464838ab",
+        "recast_address": "TYKyyX7JQzjNJbJc9WVWFPagC3KRVCwtQN",
+        "recast_number": 284188.281142,
+        "recast_time": 1746200337.0
+    },
+    {
+        "destroy_hash": "fbec07bdae3adc1ce3516e8d5f3e74c91bf7835a018e5b2dafaa86b2aa11f831",
+        "destroy_address": "TCFoGHAgpFx2ECA2fGDjnCj4yHZYCpU8A8",
+        "destroy_number": 145428.379754,
+        "destroy_time": 1746199830.0,
+        "recast_hash": "2901f814fcb77ed15db8fbd08721d0a09fbb4c7186468d8066be167a5dfeb72f",
+        "recast_address": "TYKyyX7JQzjNJbJc9WVWFPagC3KRVCwtQN",
+        "recast_number": 145428.379754,
+        "recast_time": 1746200322.0
     }
 ]
