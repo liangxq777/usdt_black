@@ -4358,5 +4358,25 @@
         "recast_address": "TYKyyX7JQzjNJbJc9WVWFPagC3KRVCwtQN",
         "recast_number": 145428.379754,
         "recast_time": 1746200322.0
+    },
+    {
+        "destroy_hash": "43fd111fa5ba0b6b68fecfa3b0adcf7e45fc9d8aa2aec0b1aafb49303fd745dc",
+        "destroy_address": "TEeUUbxFC8jtP3V4fDBVAg6nvfVWeDZt77",
+        "destroy_number": 926832.453895,
+        "destroy_time": 1746480900.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "8e473f067e9609b6459e56a08bb258c906a8930b23de57fe56c9441a4550e833",
+        "destroy_address": "TBckzYfZmerBiHWVs5cpXqsvzty58xirj8",
+        "destroy_number": 458547.817625,
+        "destroy_time": 1746480891.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
     }
 ]
