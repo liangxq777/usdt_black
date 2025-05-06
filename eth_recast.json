@@ -9618,5 +9618,55 @@
         "recast_address": "0x62f5d074831ffc0929f2153901bccb1b16150d2f",
         "recast_number": 63842.14415,
         "recast_time": "1746200471"
+    },
+    {
+        "destroy_hash": "0xffb13a2f5708a275e58d252e11663944265eb57610f9db6547d3fc28e7b9fbfd",
+        "destroy_address": "0x9798e11938ddf58f103410111c56da9d2f00b9c8",
+        "destroy_number": 266907.0,
+        "destroy_time": 1746542315,
+        "recast_hash": "0xcb3311762df22896686779766d485d61140ce1f1777a59aba37e962fdf5afb4f",
+        "recast_address": "0x681b12da2d2751a3a0179cbaf2feb6f4c5080766",
+        "recast_number": 266907.0,
+        "recast_time": "1746542699"
+    },
+    {
+        "destroy_hash": "0xe9cc6b3cc828d896378a55497d82c41b9e7d38bd6b41f9c3fb7b5743761d508e",
+        "destroy_address": "0xbebdccf5988cdd39da2c63a5d1d9093a2254be38",
+        "destroy_number": 10815.56975,
+        "destroy_time": 1746542327,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "0x6179c2067e4c8e02cb37e21f3e651d7e6814a77f149b0ebb6009dac99d4f31cb",
+        "destroy_address": "0x8f14fb59fd773c1124433ddaa0af08f9762737c4",
+        "destroy_number": 16026.737049,
+        "destroy_time": 1746542327,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "0x1aefd8eedfec8bc3877b601cdbadcd8344b410366d5f1d4b13b85b60491a4cb1",
+        "destroy_address": "0xfa2c6c55e5be0f4b7b3e9370f4b1f094975107ce",
+        "destroy_number": 23378.947287,
+        "destroy_time": 1746542327,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "0x934895eb0efcc89deaddf3aa4fd09cfaff8ce66ce84e17541dafe30ec54b19a8",
+        "destroy_address": "0xa5b56f5f64f169cdb3ee635e12d53d9ccffa2fe0",
+        "destroy_number": 120003.011914,
+        "destroy_time": 1746543467,
+        "recast_hash": "0x82d218c6471390c10cf0965a2539e33ba6b411723662f0448013920c61aabd4e",
+        "recast_address": "0x62f5d074831ffc0929f2153901bccb1b16150d2f",
+        "recast_number": 120003.011914,
+        "recast_time": "1746542771"
     }
 ]
