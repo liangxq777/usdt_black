@@ -11193,5 +11193,15 @@
         "hash": "0xc16043c1a6c673c05dd65816dbf13a289d08b763fcf0cfee4ca3a4de739d7ebf",
         "black_address": "0x5048492f97475ab04838d1bbb22d70703bb36421",
         "black_time": 1746945467
+    },
+    {
+        "hash": "0xf304e5cf5499951457b6205e129a84faa6e1c13baa62ef3f7851e1de7d78e4e8",
+        "black_address": "0xb409062682bee3c85a5fdd361dc7113fbac5a6af",
+        "black_time": 1747081463
+    },
+    {
+        "hash": "0xf7a1d71f6ff3daa2f520fa635e187661e6e8cf64b586e27d4a5a8ada87175c36",
+        "black_address": "0xdbe5fde918b646c436dc4ef100499605367754cb",
+        "black_time": 1747082303
     }
 ]
