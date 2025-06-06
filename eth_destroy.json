@@ -6865,5 +6865,12 @@
         "black_number": 50255.265441,
         "black_time": 1748899295,
         "black_block": 22619628
+    },
+    {
+        "hash": "0x1ad7497e5ecb62209250b582ec636a2e23310c35757d84e76d4fa1eddeecc98d",
+        "black_address": "0xe6b78809b265811e9c0ec09df41f5864a799da5d",
+        "black_number": 260004.0,
+        "black_time": 1749150827,
+        "black_block": 22640422
     }
 ]

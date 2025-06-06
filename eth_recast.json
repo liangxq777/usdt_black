@@ -9778,5 +9778,15 @@
         "recast_address": "",
         "recast_number": "",
         "recast_time": ""
+    },
+    {
+        "destroy_hash": "0x1ad7497e5ecb62209250b582ec636a2e23310c35757d84e76d4fa1eddeecc98d",
+        "destroy_address": "0xe6b78809b265811e9c0ec09df41f5864a799da5d",
+        "destroy_number": 260004.0,
+        "destroy_time": 1749150827,
+        "recast_hash": "0x9224d4fda2e5ea1df8b37ebea09315189911ae00a20892dcb63803a7ef6967fd",
+        "recast_address": "0x62f5d074831ffc0929f2153901bccb1b16150d2f",
+        "recast_number": 260004.0,
+        "recast_time": "1749151019"
     }
 ]

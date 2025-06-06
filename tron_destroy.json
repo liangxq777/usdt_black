@@ -2734,5 +2734,11 @@
         "black_address": "TW3cS9REP3ZQSu9k59xQTEU7nGS5x8ZE1u",
         "black_number": 157400.90591,
         "black_time": 1748394615.0
+    },
+    {
+        "hash": "039a16f11758c25a34685118a370e8243e47ebb81c3261415c289ecdf48a97e9",
+        "black_address": "TSAhb6v1YcsGEofjvp2iJa1AoNDbs7USpd",
+        "black_number": 54780.55263,
+        "black_time": 1749150600.0
     }
 ]

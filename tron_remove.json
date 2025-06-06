@@ -703,5 +703,10 @@
         "hash": "a90310c29ff6052da96cc4f846c9a468fb60a63cb363f1d674d9c563b709aec0",
         "black_address": "TYKrr8VKFGpgttPQmUj1NGkcCRGRwyVcAN",
         "black_time": 1749072960.0
+    },
+    {
+        "hash": "d86638b0a1999dc2199f087965fb3b327a237f1e1d0b840c9b18c0854cd13fd5",
+        "black_address": "TQviCQ1ayFMTnt5AGbJTpNBeQfdJEtUP6u",
+        "black_time": 1749159789.0
     }
 ]
