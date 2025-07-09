@@ -16718,5 +16718,55 @@
         "hash": "03e87dd2f8ab8011bdb177497d5736f4027bf22ba9fc475521bbfb621a7adf64",
         "black_address": "TTc3hEuz2n61hxHAKrxDTS41Momqcm1hrK",
         "black_time": 1751893071.0
+    },
+    {
+        "hash": "1e966639269feb8dc7d9a98e0f22554b8b5bf87e4a780b4fcadb5f7798ce19cd",
+        "black_address": "TC75Jsn4oEQUX42YTJjre4hiwfuz5oMNA2",
+        "black_time": 1752009018.0
+    },
+    {
+        "hash": "164d9a097206c0b165778aa44d78eae582ac0e4404e250c6b0a068f12301f09b",
+        "black_address": "TFMtSM6FJS2NKT1WVPX5R3Yoynh81CuyTU",
+        "black_time": 1752009009.0
+    },
+    {
+        "hash": "435d15065e450ad19e0716ca9d393a39b2846b35b860596d242f63b82ff12f70",
+        "black_address": "TL2pmZXjWKqpR2yfbv7AG5ys63MW7jQqgT",
+        "black_time": 1752008946.0
+    },
+    {
+        "hash": "176ad0de3d4adca3497090b910bf3b7f07e709735870bb51f3643b9086b7db70",
+        "black_address": "TYaK1LptMb4xJLMRCi8mEQbvs4Yr468Ghd",
+        "black_time": 1752008937.0
+    },
+    {
+        "hash": "373c67f65ec46fa606ff7780626971a0d364bcd1a3ff497285b8c4453c88972e",
+        "black_address": "TJZPy25g6Yk1iBvA3ACHvSXwMqaWTCAhfa",
+        "black_time": 1751980011.0
+    },
+    {
+        "hash": "f9deb9c89c46ef0feb6e206283c0b41e48b15387bed4d3a54507faf9a52e86f4",
+        "black_address": "TUvkMoQFJqAPPuKHmC1d4QFFU3gZoDkqJ8",
+        "black_time": 1751979993.0
+    },
+    {
+        "hash": "7776b95c1d0b1ddcb52785144aa10df996a75997fc09675b831a32da961ce80a",
+        "black_address": "TJM34BpgXhmRRS5fshwwXyArKeiGq9mGNK",
+        "black_time": 1751979981.0
+    },
+    {
+        "hash": "26e1ddb59b0b0da5c9368e50875ee336bbe36bcac8d578ad07ec06ef17ae48d7",
+        "black_address": "TLBXADAisY8zNPj7MevFpYB6bUAPNCR2m8",
+        "black_time": 1751979948.0
+    },
+    {
+        "hash": "7fbbf6abedcd5726fc937f5a5c871a5f98db6385777e9c48897461a4ef2bb4df",
+        "black_address": "TPenXPUvt2G6SdfFNJWgenVQB6RFeJbjjp",
+        "black_time": 1751979930.0
+    },
+    {
+        "hash": "6d1650a10d2df912ff30d868b77797ca567840173d4a3ba09e85587c3044eee6",
+        "black_address": "TPCNnth6rDXqSfYgKsLsX6kf13JJqk5UXW",
+        "black_time": 1751979924.0
     }
 ]
