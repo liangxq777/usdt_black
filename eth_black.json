@@ -11573,5 +11573,35 @@
         "hash": "0x2e1cf061e897c5c9b51bc49839abaaa65f149a37b3a3cdfe81bf4791f08c27ee",
         "black_address": "0x9aa55e032ab43b052884d20e96b37ba527080adc",
         "black_time": 1752251915
+    },
+    {
+        "hash": "0xd8d308fa9c8a8b1caa1e012d6e02ffc0c5237fcdf87216ba07a65369daee93b8",
+        "black_address": "0x8b17b1cf48d0c85635cc8848345d0b6ac6b115a9",
+        "black_time": 1752300407
+    },
+    {
+        "hash": "0x8161a6ce6516fa95326b9e3c211453c0cdcb6832e382081119c8b305d88c75d9",
+        "black_address": "0xe0c59af0a882938abf5dcc85b21245a1e57d8dc2",
+        "black_time": 1752300407
+    },
+    {
+        "hash": "0xc6c5dd91d9495d511782c4f6f744dbe5585a33d42ea3c67128f8e0ca82ee5568",
+        "black_address": "0xe059c791b885f03a40acb035a3d5ab373170e7f6",
+        "black_time": 1752300419
+    },
+    {
+        "hash": "0x9d6bdc547eee7138f6525c07bd08a90d04c84cfa6e6ca30e82a7c5479bc2f053",
+        "black_address": "0x1dea4f059299d2537d3a5c56d0d05b2eb865f42c",
+        "black_time": 1752300419
+    },
+    {
+        "hash": "0x2920d3ee614075d0b5bb3620fd318212001d43824f117fea66a1347b62e8d137",
+        "black_address": "0x1ba6b29bc62ca0a2ffc0a8d83e9a67346e5a5fb7",
+        "black_time": 1752300419
+    },
+    {
+        "hash": "0x8c04bf761da2ab46e15266e29449ab04a56cd7915316fdd0ccd9653b91d6576b",
+        "black_address": "0x4cd625d4daefa931464ae41b3be0f1360e34d14b",
+        "black_time": 1752300419
     }
 ]
