@@ -11668,5 +11668,50 @@
         "hash": "0x4c8477af53c42ee8a23c86c4d7144f5cce76d330fce6050261f8f41e66f46595",
         "black_address": "0x9ba3e88e1949f848de3b5b9046a5346fb5a55b46",
         "black_time": 1752853619
+    },
+    {
+        "hash": "0x988f9f7b17e4bdbbfaeeb12b03691510818c1d497682add312fe2581e53e8230",
+        "black_address": "0x2b8b9bd91d1381640e0eed5e5b7dd575539d1a14",
+        "black_time": 1752953207
+    },
+    {
+        "hash": "0xd0a2e520bf8fd6073eced2d49d79f74c20db4c120d5f07e50336006b5e1ede11",
+        "black_address": "0x5c01070476bc60861dbd40a1b0995f2e0c491880",
+        "black_time": 1752953207
+    },
+    {
+        "hash": "0x8d3ba4d738496ddff962eb45ff29dce7fc93fe02aa1598b697543700c7d96f6f",
+        "black_address": "0x24132c29a55a43b9766526410eb20eef5d8b5b27",
+        "black_time": 1752953207
+    },
+    {
+        "hash": "0x0b9baacbebb089558fa329f4a64ee823b64a25c02c484cdf16eb68a072a75f08",
+        "black_address": "0x2d72fc950de2fd4f662306b81f43d7fec6a2c970",
+        "black_time": 1752953207
+    },
+    {
+        "hash": "0x7574ff793b4d7712490184a7a05c131afb5f1e7d677d293f3f5f34400eb520e1",
+        "black_address": "0x3cf29f9d275fd16d0337f28f502299dfb67b8893",
+        "black_time": 1752959699
+    },
+    {
+        "hash": "0xbb685d0ca91dd227922f184d36cea5f4af1fffa77b54636c9d338ac4756d0f76",
+        "black_address": "0x18dfb193e6fc89764fccd9bf68477cc9183badcc",
+        "black_time": 1752959711
+    },
+    {
+        "hash": "0x4058fa019df6c3c561936390130e4927756992d9eb4f0c455025d154f48bef42",
+        "black_address": "0xef73dfe1d2b005280e9f7ef73b74c51dd59a90f3",
+        "black_time": 1752959711
+    },
+    {
+        "hash": "0x7f13f1454629a831ad27475737e806352fcf3b96107a2e75c75c3fe2aca470da",
+        "black_address": "0x4100dbff2dda958586fc661b1059e74f2c267385",
+        "black_time": 1752959711
+    },
+    {
+        "hash": "0x82b803f426866b152900283a059e1e9a37678a8e4d7884d60d6b7efc12cb4586",
+        "black_address": "0x63179c7bf99d67a7483a3d98bdf91ab78297e35d",
+        "black_time": 1752959711
     }
 ]
