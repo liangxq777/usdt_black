@@ -7040,5 +7040,19 @@
         "black_number": 1008902.606307,
         "black_time": 1753389071,
         "black_block": 22991412
+    },
+    {
+        "hash": "0xabb3350a8082c9557f0cd12aa4da551f55bab32c1ea5da73d0899b14a28d8d8b",
+        "black_address": "0xbe10a20daf62e499d73b3e2009612a54ce4439ea",
+        "black_number": 929923.305979,
+        "black_time": 1753730567,
+        "black_block": 23019700
+    },
+    {
+        "hash": "0x9f236ecd3076c0a8f38b628de46e15d4560c8d73d38484467e5ae9da40f0e005",
+        "black_address": "0x68795f7da7ccfa7cb26155b6984d8742111a47d9",
+        "black_number": 292879.814664,
+        "black_time": 1753730567,
+        "black_block": 23019700
     }
 ]
