@@ -4678,5 +4678,155 @@
         "recast_address": "",
         "recast_number": "",
         "recast_time": ""
+    },
+    {
+        "destroy_hash": "b9035a425ff7e4f8dcf508dff46c012d568328529de0a652f80ab05dad0fb338",
+        "destroy_address": "TVyiEVdjy2cheWLzztHtHtb3E11b34K6tA",
+        "destroy_number": 150050.918886,
+        "destroy_time": 1753907619.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "2558552e8fd28085add6c334cd61e4eb02db80063cc48710c8727f47764335b6",
+        "destroy_address": "TCS1RBG9EQovNKQqxXBxVBjFYc4LXHTfBA",
+        "destroy_number": 750012.0,
+        "destroy_time": 1753907616.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "041b2658a2c8033e8e1e52356d734f78767ab1939b4a844bc897f6fbc7ea9ab5",
+        "destroy_address": "TRfAgJaahb71zaoXm6AoNS7JmCvQUzsxtd",
+        "destroy_number": 2649824.661699,
+        "destroy_time": 1753907613.0,
+        "recast_hash": "6143d0583a1c3181cca3f8b53075ef00c1114842090bac075c0cfe8ce029b71f",
+        "recast_address": "TPh86vJX2yngoeSu6qv44t6yBqHHfiXwJz",
+        "recast_number": 2649824.661699,
+        "recast_time": 1753908183.0
+    },
+    {
+        "destroy_hash": "53e7d52fc78f435e45bfd772d9769d5f33d363c06b0f30906deba173cc51ae8c",
+        "destroy_address": "TGy4yscPazLqxM9yqW2Ajk8t4HqS7oy6ux",
+        "destroy_number": 45866.103738,
+        "destroy_time": 1753907610.0,
+        "recast_hash": "84fcbb3006b59a233c2d1e64b3292f9dc2d21c2a37103e73f80c21b4d2f887e3",
+        "recast_address": "TVMrLZUcZhdSifFpbiZEWqgRfXoWzPPCCP",
+        "recast_number": 45866.103738,
+        "recast_time": 1753908162.0
+    },
+    {
+        "destroy_hash": "7def4db2853f1b184c9664db9a97fe19662de6b388fbd87d4a127b10c7077c75",
+        "destroy_address": "TVEDkbhuQgjNtiybHd139QEp4aitPGWpoh",
+        "destroy_number": 1593000.466707,
+        "destroy_time": 1753907604.0,
+        "recast_hash": "81c2a736da7289aedd76f76c78548b1d28f878a0b19bc6cc56c042472f8ae070",
+        "recast_address": "TPh86vJX2yngoeSu6qv44t6yBqHHfiXwJz",
+        "recast_number": 1593000.466707,
+        "recast_time": 1753908144.0
+    },
+    {
+        "destroy_hash": "380b8b28a2e7900aa8814680acbca5742e8653afeaf6f26a7fedca9d9b1f716f",
+        "destroy_address": "TPGPC5aBSDxLzonekvSWXiQvDhkfB4Pddt",
+        "destroy_number": 700000.004,
+        "destroy_time": 1753907604.0,
+        "recast_hash": "6681d5f6fbce88c5d7340f46005f198cc2031ed2f9fd2017d4b5da8f447c5451",
+        "recast_address": "TPvdN8sshMh6j4dCxUXWEDtcZivnqCjkN8",
+        "recast_number": 700000.004,
+        "recast_time": 1753908126.0
+    },
+    {
+        "destroy_hash": "f1b94347a1998f9047c0e17919dc465f047454b270382b3ce06e1ae1121cff20",
+        "destroy_address": "TL4MeyPRooqL9UhCiqAHww7u2pNYs6guJS",
+        "destroy_number": 465.0,
+        "destroy_time": 1753907601.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "023cadff4d10980a7357942a76d06eab96df926798f4e254a507408ab33a6595",
+        "destroy_address": "THeKAQbUnV58Hnt8WxwwXaC4EjzTquoVes",
+        "destroy_number": 110.212,
+        "destroy_time": 1753907598.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "13e1eac905f992ec2198c94fd328806662eb2511a692c823e8cd5973f6000732",
+        "destroy_address": "TTL4Dc7iv27iQBDejyXtrSSQoYBf6WLWec",
+        "destroy_number": 24.166054,
+        "destroy_time": 1753907595.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "c7c10de4998a16bbb277e6f2ec0ffd448f151d2337ff5073f340f596825d97aa",
+        "destroy_address": "TCZWe2uJkkYNtwan8eEmziXUp7e3Pg4zA2",
+        "destroy_number": 50.0,
+        "destroy_time": 1753907592.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "fde36f0a735d7f132a1c7f0e322f3d6419ec268643f6cd99e6783943f939e817",
+        "destroy_address": "TXtUP3zCt87Y3ayq6zycmPWQnoSoiaLYML",
+        "destroy_number": 294.214448,
+        "destroy_time": 1753907592.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "00f2bd759025a4d74eaaa2f6f1cc0cb32f56654a710bffa128b1745487e88d3e",
+        "destroy_address": "TFbDs69t3TmMxbjiVPKeQqeH65VdqnCkRg",
+        "destroy_number": 14608.614973,
+        "destroy_time": 1753907589.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "372c9407c89b71c0f900e5646373a1f46cd9d1afbdef404db93f3a8153c15064",
+        "destroy_address": "TQaNC6oaN8TVtvbVv7vDZUAhPZrfuP76Vp",
+        "destroy_number": 5642.894948,
+        "destroy_time": 1753907586.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "33de910c6a5c2775911c3cc5b3ef049f4633ed694c908cf3fd90051cdc638b6c",
+        "destroy_address": "TX87gnGg3un2GeTSsXXEE62KdTyF4WWFJd",
+        "destroy_number": 3812.524828,
+        "destroy_time": 1753907583.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "d9efc20f6b077d506427503f34eba7821cd59202070c0f073b6575f414f4ab0d",
+        "destroy_address": "TA3aQxRwocYytqZBKqMPHPZT6pYvwGjLg1",
+        "destroy_number": 75243.089008,
+        "destroy_time": 1753907571.0,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
     }
 ]

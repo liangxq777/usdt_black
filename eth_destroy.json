@@ -7054,5 +7054,96 @@
         "black_number": 292879.814664,
         "black_time": 1753730567,
         "black_block": 23019700
+    },
+    {
+        "hash": "0x0760f7a056abbd1c8b041e2fc9407c3c5ec77906ae85ca98565e7bc7244e98a8",
+        "black_address": "0xc812bc945f7a9b347dddd6e2e829b7ec3f40e25e",
+        "black_number": 6323671.144604,
+        "black_time": 1753907147,
+        "black_block": 23034310
+    },
+    {
+        "hash": "0x7afe92008901fdfabfc071582694239e9e879b9ad737ccbb03596a317dd5b41b",
+        "black_address": "0xd518c3159a4b162f52a0e4dd13d5245f45960bc8",
+        "black_number": 6290000.0,
+        "black_time": 1753907183,
+        "black_block": 23034312
+    },
+    {
+        "hash": "0xa213c07dcd09474abee40f7471955e75edcd194b934fa9cff1f16e4dd6e28f21",
+        "black_address": "0x02a629e4e1af08dd47f9a29498839967360e40d8",
+        "black_number": 960007.896281,
+        "black_time": 1753907195,
+        "black_block": 23034313
+    },
+    {
+        "hash": "0x3968508584b80fd0e816bab030dda97b9d1187b33b3d547d0e8105d43e07abf5",
+        "black_address": "0xb13557924803cb5c4a4b951f07003d11fbd91e1e",
+        "black_number": 210360.82,
+        "black_time": 1753907207,
+        "black_block": 23034314
+    },
+    {
+        "hash": "0xa9aac118ba2237f8ba4d3a4b9fe94a2ec873e9985af6a2d0d73fc7702fd43bab",
+        "black_address": "0x2efef1dd54c9a88b1268f3a9ea71f336d845df11",
+        "black_number": 42371.500626,
+        "black_time": 1753907207,
+        "black_block": 23034314
+    },
+    {
+        "hash": "0xacac7a0f4e286f89b995c9661ce6d6b5e92a29305161757479f4a3e7597c09cb",
+        "black_address": "0xf50f0d97a6677db9f2bdc45e024cd48219a06904",
+        "black_number": 509499.96612,
+        "black_time": 1753907207,
+        "black_block": 23034314
+    },
+    {
+        "hash": "0xa617a4ec2eac5b8d22229ce2917730dcf7a65144feb5edececcd41ee216b3054",
+        "black_address": "0x18f5c3e7461a2dfc7fe4f90692d0ecf755ddaad8",
+        "black_number": 65000.0,
+        "black_time": 1753907207,
+        "black_block": 23034314
+    },
+    {
+        "hash": "0x08ad4e500928bdfb72c0899674a7089f1e9e1518a5e2254a85160afb6bde1939",
+        "black_address": "0xc07ea7c419000aca90baa28b10e7fbe202f80859",
+        "black_number": 168188.002231,
+        "black_time": 1753907219,
+        "black_block": 23034315
+    },
+    {
+        "hash": "0xf04f176617f47d5db3adbe0897667761a1034666da96ae4dd3f424c5c0c7c9a9",
+        "black_address": "0x0e38b1affb6a8a008f1ea6622d8ff3f574503600",
+        "black_number": 50000.0,
+        "black_time": 1753907231,
+        "black_block": 23034316
+    },
+    {
+        "hash": "0x23f766b5e069ae17f58badb9aa219b37cec8cd7a814e20c1449c4a43d379c3a2",
+        "black_address": "0xe0f6ef7742e3d39301cdc768e1d738b58bf10dbc",
+        "black_number": 64117.161803,
+        "black_time": 1753907231,
+        "black_block": 23034316
+    },
+    {
+        "hash": "0x4218a93ed3d8ad2294506afc4eb1cb8d668963625c4398096d349241c45f8438",
+        "black_address": "0x14358cf97cd504da3d2c293fa68d1a69400180e1",
+        "black_number": 200000.039646,
+        "black_time": 1753907243,
+        "black_block": 23034317
+    },
+    {
+        "hash": "0xeba2eca88db8289d7172dd0bf9f253591a91c23cc51e04393e153951d8a36bb9",
+        "black_address": "0x034d916250bed28f22d994e114e0953aab2ebf3f",
+        "black_number": 238380.972807,
+        "black_time": 1753907243,
+        "black_block": 23034317
+    },
+    {
+        "hash": "0x405cf2821d1648431277d8927ff206ccba6a5f22563cef7e6c1aeed52ea35b85",
+        "black_address": "0x01d05211e6a202c399961dc7398f8a26790b534b",
+        "black_number": 3275100.094002,
+        "black_time": 1753907243,
+        "black_block": 23034317
     }
 ]
