@@ -12118,5 +12118,10 @@
         "hash": "0xee7e073d0e40e523f0ed08d0643a01a73497dec35634bde29bde09ff5f92fec9",
         "black_address": "0x333feb3bf8ac079afa0977b20100ca2d5bfb97dc",
         "black_time": 1756308683
+    },
+    {
+        "hash": "0xa5b2929717d403aab896658402ddae6a29d55dcff6a0e2b8c9444e97626d0a11",
+        "black_address": "0x093634ed0125826648c340d9da5c9e7b33d15494",
+        "black_time": 1756409147
     }
 ]
