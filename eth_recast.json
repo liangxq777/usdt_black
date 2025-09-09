@@ -10568,5 +10568,55 @@
         "recast_address": "",
         "recast_number": "",
         "recast_time": ""
+    },
+    {
+        "destroy_hash": "0xda8cbcb11a062e3838a838b9df643bf93444d9f0beedc833b5b1b7f2423e3df4",
+        "destroy_address": "0xda2e12e94060720581994eec870f83d9c7200c2c",
+        "destroy_number": 106376.015452,
+        "destroy_time": 1757351171,
+        "recast_hash": "0xa2f8344e77e6fc7dd570dbb7e4b652147d06d0a32af10470ffcc9f270f18b06c",
+        "recast_address": "0x62f5d074831ffc0929f2153901bccb1b16150d2f",
+        "recast_number": 106376.015452,
+        "recast_time": "1757351831"
+    },
+    {
+        "destroy_hash": "0xe52e68a026c3575ceffbfde86f140413636013065be893a9b9d971fad1c150c4",
+        "destroy_address": "0x8412372a5d7af4aa5deeac5d94bc797052cfdf4c",
+        "destroy_number": 1430804.0,
+        "destroy_time": 1757351183,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "0xf0b86edf425f5d3e68af67c626b283594f69190c025f96bff8e91bd45c194502",
+        "destroy_address": "0x728355da7f81fb80f23525d208321154de86949d",
+        "destroy_number": 1637363.41659,
+        "destroy_time": 1757351195,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "0xd34b3dd444f6164492373c53f3d42b18b0eb30ae35469d8b8f03662187bef844",
+        "destroy_address": "0x7621c52d926074fcce3f4e2476f4e418efca2387",
+        "destroy_number": 1978017.71,
+        "destroy_time": 1757351207,
+        "recast_hash": "",
+        "recast_address": "",
+        "recast_number": "",
+        "recast_time": ""
+    },
+    {
+        "destroy_hash": "0xdbee67bf9f8db16e5683b9a7d1f40c0fb69d66d5392f8579db3f0c2f0d35b8c4",
+        "destroy_address": "0xcb567e89ac29ffb7adb85e8b4b8e7d7b14302f26",
+        "destroy_number": 4110000.0,
+        "destroy_time": 1757351219,
+        "recast_hash": "0x858f63c79bd833be63a330a618d129e79b66e3871568bda9ce743c563f921834",
+        "recast_address": "0x681b12da2d2751a3a0179cbaf2feb6f4c5080766",
+        "recast_number": 4110000.0,
+        "recast_time": "1757351939"
     }
 ]

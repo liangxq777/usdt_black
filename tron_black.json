@@ -22448,5 +22448,30 @@
         "hash": "c94c07276f970df89b410a080a97a4be409023ff4ebeceddc346051098aef58a",
         "black_address": "TUXTafr9aYsp1Zy5HcEPcnLnehCxPdFJcK",
         "black_time": 1757098929.0
+    },
+    {
+        "hash": "4ec5e2b751af098244739e57537642273a660be216432bdd30f4378da443bd61",
+        "black_address": "TVGAj8xEZsAmKtRcaEyVWzrNkGPXySN7bj",
+        "black_time": 1757351277.0
+    },
+    {
+        "hash": "7eb7b2e0c1c066eb5736eb39efbac26951dc5dc1868e451005e6b47f987a2948",
+        "black_address": "TB74jkGGa32TfzKuBGxbbAQWC8YKf9WBuL",
+        "black_time": 1757351271.0
+    },
+    {
+        "hash": "4cd77b362c291584057064b708e5fa2134822b247c637c32966f656175122ceb",
+        "black_address": "TY8WN8GLdqQA3VeNWDVSkciuLvPH2hEiRW",
+        "black_time": 1757351271.0
+    },
+    {
+        "hash": "89a267247604e8c915142774c68d7a723d43f6ab4b7bc7d15e32b073cb4e7737",
+        "black_address": "TNEtJTGFykDnCDsbUjqDT86CpCgSrVHE4p",
+        "black_time": 1757351268.0
+    },
+    {
+        "hash": "69484ab100ce265f8a355b7f35940740103e4b89bcf8f012d854b251b9212132",
+        "black_address": "TAbYwDjQk4RvRWKWW8RJP8LPRoqP6KcWpc",
+        "black_time": 1757351262.0
     }
 ]

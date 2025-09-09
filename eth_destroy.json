@@ -7418,5 +7418,40 @@
         "black_number": 133303.782095,
         "black_time": 1755855743,
         "black_block": 23195789
+    },
+    {
+        "hash": "0xda8cbcb11a062e3838a838b9df643bf93444d9f0beedc833b5b1b7f2423e3df4",
+        "black_address": "0xda2e12e94060720581994eec870f83d9c7200c2c",
+        "black_number": 106376.015452,
+        "black_time": 1757351171,
+        "black_block": 23319753
+    },
+    {
+        "hash": "0xe52e68a026c3575ceffbfde86f140413636013065be893a9b9d971fad1c150c4",
+        "black_address": "0x8412372a5d7af4aa5deeac5d94bc797052cfdf4c",
+        "black_number": 1430804.0,
+        "black_time": 1757351183,
+        "black_block": 23319754
+    },
+    {
+        "hash": "0xf0b86edf425f5d3e68af67c626b283594f69190c025f96bff8e91bd45c194502",
+        "black_address": "0x728355da7f81fb80f23525d208321154de86949d",
+        "black_number": 1637363.41659,
+        "black_time": 1757351195,
+        "black_block": 23319755
+    },
+    {
+        "hash": "0xd34b3dd444f6164492373c53f3d42b18b0eb30ae35469d8b8f03662187bef844",
+        "black_address": "0x7621c52d926074fcce3f4e2476f4e418efca2387",
+        "black_number": 1978017.71,
+        "black_time": 1757351207,
+        "black_block": 23319756
+    },
+    {
+        "hash": "0xdbee67bf9f8db16e5683b9a7d1f40c0fb69d66d5392f8579db3f0c2f0d35b8c4",
+        "black_address": "0xcb567e89ac29ffb7adb85e8b4b8e7d7b14302f26",
+        "black_number": 4110000.0,
+        "black_time": 1757351219,
+        "black_block": 23319757
     }
 ]
